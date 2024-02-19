@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: dkkenjd/xnmnxm:latest
+          tags: DOCKER-REPOSITORY:latest
